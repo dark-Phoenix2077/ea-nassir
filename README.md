@@ -29,9 +29,14 @@ CAD: The most complete, comprehensive part of the design, this consists of silic
 
 Coding: all set up and completed except for specific pedropathing parameters, will do when I build the physical robot (needs specific calibration)
 
+
+<img width="1440" height="971" alt="Screenshot 2026-04-23 at 12 33 21 pm" src="https://github.com/user-attachments/assets/c1b0eda4-688a-4e03-b235-22bccc64967f" />
+
+(note that code is in /TeamCode/src/main/java/org/firstinspires/ftc/teamcode)
+
 BOM: created a (as comprehensive as I could remember) BOM
 
-Wiring: also added the wiring diagram.
+Wiring: also added the wiring diagram for all motors/servos/sensors/etc.
 
 ## BOM
 
