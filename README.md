@@ -61,7 +61,7 @@ Electronics & Control
 
 | # | Name | Item Code | Qty | Notes | Link |
 |---|------|-----------|-----|-------|------|
-| 10 | Swyft Ranger Distance Sensor | — | 3 | Sponsored via store credit | [Link](https://swyftrobotics.com/products/swyft-ranger-distance-sensor) |
+| 10 | Swyft Ranger Distance Sensor | — | 3 | Distance sensor | [Link](https://swyftrobotics.com/products/swyft-ranger-distance-sensor) |
 | 11 | REV Magnetic Limit Switch Bundle | REV-31-1462 | 1 | Bundle includes REV-40-1467 switch | [Link](https://www.revrobotics.com/rev-31-1462/) |
 | 12 | REV Magnet Limit Switch (individual) | REV-40-1467 (inside REV-31-1462) | 1 | Part of the bundle above | [Link](https://www.revrobotics.com/rev-31-1462/) |
 
