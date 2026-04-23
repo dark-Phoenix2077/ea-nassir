@@ -1,5 +1,5 @@
 ## ea-nassir 
-a practice robot for the FTC decode season, designed by one person for the stasis hackathon
+a practice robot for the FTC decode season, designed by me for the stasis hackathon
 
 <img width="858" height="799" alt="Screenshot 2026-04-23 at 11 40 23 am" src="https://github.com/user-attachments/assets/315f9139-9762-4489-98d3-3a65d3f5d6b4" />
 
