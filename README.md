@@ -1,12 +1,12 @@
 ## ea-nassir 
-a practice robot for the FTC decode season, designed by me for the stasis hackathon
+A robot made to compete in the FTC decode season, built just to practise cad and coding skills =)
 
 <img width="858" height="799" alt="Screenshot 2026-04-23 at 11 40 23 am" src="https://github.com/user-attachments/assets/315f9139-9762-4489-98d3-3a65d3f5d6b4" />
 
 
 ## why I made this
 
-I wanted to attempt making a full FTC robot from scrach, on my own. despite my final design turning out very similar to widespread designs, I am happy just for building one of my own from scratch. I probably will not take part in any competitions, but I have been wanting to go through the whole process of building an FTC robot from start to finish, and the stasis hackathon finally gave me an excuse to do so.and
+I wanted to attempt making a full FTC robot from scrach, on my own. despite my final design turning out very similar to widespread designs, I am happy just for building one of my own from scratch. I probably will not take part in any competitions, but I have been wanting to go through the whole process of building an FTC robot from start to finish, and the stasis hackathon finally gave me an excuse to do so.
 
 
 ## what there is
@@ -36,7 +36,7 @@ Coding: all set up and completed except for specific pedropathing parameters, wi
 
 BOM: created a (as comprehensive as I could remember) BOM
 
-Wiring: also added the wiring diagram for all motors/servos/sensors/etc.
+Wiring: also added the wiring diagram for all motors/servos/sensors/etc. - in WIRING.md
 
 ## BOM
 
