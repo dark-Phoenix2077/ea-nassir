@@ -1,9 +1,37 @@
 ## ea-nassir 
 a practice robot for the FTC decode season, designed by one person for the stasis hackathon
 
+<img width="858" height="799" alt="Screenshot 2026-04-23 at 11 40 23 am" src="https://github.com/user-attachments/assets/315f9139-9762-4489-98d3-3a65d3f5d6b4" />
+
+
 ## why I made this
 
+I wanted to attempt making a full FTC robot from scrach, on my own. despite my final design turning out very similar to widespread designs, I am happy just for building one of my own from scratch. I probably will not take part in any competitions, but I have been wanting to go through the whole process of building an FTC robot from start to finish, and the stasis hackathon finally gave me an excuse to do so.and
+
+
 ## what there is
+
+Currently, I have done the following:
+
+CAD: The most complete, comprehensive part of the design, this consists of silicon molds for custom intake rollers, a drivetrain, 360 turret and PTO mechanism, all connected with custom CNC plates.
+
+<img width="858" height="799" alt="Screenshot 2026-04-23 at 12 18 12 pm" src="https://github.com/user-attachments/assets/137bd4e0-e10d-4b81-a074-c82790fd101e" />
+
+
+<img width="654" height="591" alt="Screenshot 2026-04-23 at 12 18 51 pm" src="https://github.com/user-attachments/assets/bb3c7d85-a491-4e1d-b186-c3fe40358069" />
+
+
+<img width="654" height="591" alt="Screenshot 2026-04-23 at 12 19 32 pm" src="https://github.com/user-attachments/assets/80c4cb76-0aa8-4ff7-859e-e3cac3ef258f" />
+
+
+<img width="654" height="703" alt="Screenshot 2026-04-23 at 12 31 41 pm" src="https://github.com/user-attachments/assets/e22b7073-8c81-444d-be19-44425f8e94e7" />
+
+
+Coding: all set up and completed except for specific pedropathing parameters, will do when I build the physical robot (needs specific calibration)
+
+BOM: created a (as comprehensive as I could remember) BOM
+
+Wiring: also added the wiring diagram.
 
 ## BOM
 
