@@ -1,4 +1,5 @@
 (note that this may not be final. also, most of these parts already exist with me)
+(I am funding it all just fyi)
 
 Electronics & Control
 
