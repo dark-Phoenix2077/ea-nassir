@@ -1,3 +1,5 @@
+(note: I am funding it all myself)
+
 ## ea-nassir 
 A robot made to compete in the FTC decode season, built just to practise cad and coding skills =)
 
