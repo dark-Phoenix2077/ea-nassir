@@ -1,9 +1,15 @@
-(note: I am funding it all myself)
 
 ## ea-nassir 
 A robot made to compete in the FTC decode season, built just to practise cad and coding skills =)
 
 <img width="858" height="799" alt="Screenshot 2026-04-23 at 11 40 23 am" src="https://github.com/user-attachments/assets/315f9139-9762-4489-98d3-3a65d3f5d6b4" />
+
+## build photos
+
+<img width="3024" height="4032" alt="IMG_4926" src="https://github.com/user-attachments/assets/4575fe41-1357-4b58-b4c0-64cfb3e07a7c" />
+<img width="3024" height="4032" alt="IMG_4925" src="https://github.com/user-attachments/assets/996d12d8-5107-408b-a7b9-d5614954ce41" />
+<img width="3024" height="4032" alt="IMG_4924" src="https://github.com/user-attachments/assets/02e5d200-d14d-4aba-8d1d-412ac77ac154" />
+
 
 
 ## why I made this
